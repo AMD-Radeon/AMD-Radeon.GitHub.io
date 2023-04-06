@@ -1119,12 +1119,12 @@ function createtime1() {
   var dnum = Math.floor(days);
 
   var ascll = [
-    `欢迎来到Sakura🥝の小家!`,
+    `欢迎来到亦如🥝の小家!`,
     `Sakura is now 🍭🍭🍭`,
     "小站已经苟活",
     dnum,
     "天啦!",
-    "©2023 By Sakura",
+    "©2023 By 一亦如一",
   ];
 
   setTimeout(
@@ -1163,7 +1163,7 @@ function createtime2() {
   setTimeout(
     console.warn.bind(
       console,
-      "%c ⚡ Powered by Fomalhaut🥝 %c 你正在访问Sakura🥝の小家",
+      "%c ⚡ Powered by Fomalhaut🥝 %c 你正在访问一亦如一🥝の小家",
       "color:white; background-color:#f0ad4e",
       ""
     )
@@ -1274,7 +1274,7 @@ function share_() {
     // 截取标题
     var title = document.title;
     var subTitle = title.endsWith("| Sakura🥝") ? title.substring(0, title.length - 14) : title;
-    navigator.clipboard.writeText('Sakura🥝的站内分享\n标题：' + subTitle + '\n链接：' + url + '\n欢迎来访！🍭🍭🍭');
+    navigator.clipboard.writeText('一亦如一🥝的站内分享\n标题：' + subTitle + '\n链接：' + url + '\n欢迎来访！🍭🍭🍭');
     new Vue({
       data: function () {
         this.$notify({

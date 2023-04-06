@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://blog.irthwlink.top/life/movies/index.html</loc>
+    <loc>https://blog.irthwlink.top/life/games/index.html</loc>
     
     <lastmod>2023-04-05</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://blog.irthwlink.top/life/games/index.html</loc>
+    <loc>https://blog.irthwlink.top/life/movies/index.html</loc>
     
     <lastmod>2023-04-05</lastmod>
     
@@ -65,15 +65,6 @@
   </url>
   
   <url>
-    <loc>https://blog.irthwlink.top/site/census/index.html</loc>
-    
-    <lastmod>2023-04-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.irthwlink.top/site/time/index.html</loc>
     
     <lastmod>2023-04-05</lastmod>
@@ -84,6 +75,15 @@
   
   <url>
     <loc>https://blog.irthwlink.top/social/fcircle/index.html</loc>
+    
+    <lastmod>2023-04-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.irthwlink.top/site/census/index.html</loc>
     
     <lastmod>2023-04-05</lastmod>
     
